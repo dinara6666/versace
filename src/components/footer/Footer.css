@@ -1,0 +1,399 @@
+
+.small {
+    display: flex;
+    top: 40px;
+    position: relative;
+    right: 70px;
+}
+
+.h22 {
+    width: 1200px;
+    height: auto; /* Автоматическая высота, так как добавлены новые элементы */
+    font-family: Integral CF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: left; /* Текст по левому краю */
+    color: rgba(255, 255, 255, 1); /* Белый текст */
+    background-color: black; /* Черный фон */
+    padding: 36px 64px; /* Отступы */
+    border-radius: 20px; /* Закругленные углы */
+    margin-left: 100px; /* Отступ слева */
+    position: relative;
+}
+
+.email-container {
+    bottom: 130px;
+    margin-left: 850px; /* Отступ слева */
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 1);
+    width: 349px;
+    height: 48px;
+
+    gap: 12px;
+    border-radius: 62px 60px 60px 60px;
+    opacity: 1;
+    margin-top: 30px; /* Отступ сверху для поля ввода */
+}
+
+.email-icon {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+}
+
+.email-input {
+
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+
+    height: 100%;
+    border-radius: 62px;
+    background-color: transparent;
+
+}
+
+.fbutton {
+    bottom: 140px;
+    margin-left: 850px; /* Отступ слева */
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 1);
+    width: 349px;
+    height: 48px;
+
+    gap: 12px;
+    border-radius: 62px 60px 60px 60px;
+    opacity: 1;
+    margin-top: 30px;
+    font: 17px sans-serif;
+
+
+}
+
+.fbutton:hover {
+    background-color: #45a049;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h22{
+
+    width: 551px;
+    height: 94px;
+    gap: 0px;
+    font-family: Integral CF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(255, 255, 255, 1);
+    background-color: black;
+    /*top: 3781px;*/
+    left: 100px;
+    padding: 36px 64px 36px 64px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    justify: space-between;
+    margin-left: 100px;
+    width: 1200px;
+
+    /*margin-top: 100px;*/
+
+}
+
+
+.button111{
+    button{
+        border-radius: 20px 20px 20px 20px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.back {
+    position: relative;
+
+    background-color: rgba(240, 240, 240, 1);
+    height: 591px;
+    display: flex;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.6);
+    padding: 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 20px;
+
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: 60px;
+
+    position: relative;
+    left: 30px;
+
+}
+
+.footer2{
+    margin-right: 20px;
+    margin-top: 60px;
+    width: 214px;
+    height: 40px;
+    top: 1442px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.footer3{
+    margin-left: 20px;
+    margin-top: 60px;
+    width: 214px;
+    height: 40px;
+    top: 1442px;
+    left: 996px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+
+
+
+.footer4{
+    margin-top: 60px;
+    width: 214px;
+    height: 40px;
+    top: 1442px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.page {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.D{
+    width: 20px;
+    display: flex;
+    text-align: center;
+    margin-left: 35px;
+    h4{
+        margin-top: 18px;
+        margin-left: 10px;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 21px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    }
+
+}
+
+
+.viverra1{
+    margin-top: 80px;
+    margin-right: 70px;
+}
+
+.viverra {
+    padding: 40px;
+    font-family: Poppins;
+    text-align: left;
+}
+
+.viverra2{
+    display: flex;
+    gap: 16px;
+    margin-left: 35px;
+}
+
+.copy{
+    margin-top: 100px;
+    /*color: rgba(255, 255, 255, 1);*/
+    color: #1a1a1a;
+    width: 268.27px;
+    height: 40px;
+    top: 1718px;
+    left: 586px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+
+nput:focus, select:focus, button:focus {
+    border-color: #FF8A00;
+    box-shadow: 0 0 5px rgba(255, 138, 0, 0.5);
+}
+
+
+.buttonn:hover {
+    transform: translateY(-5px);
+    background-color: #FF7A00;
+}
+
+.buttonn:focus {
+    outline: none;
+    border: 2px solid #FF8A00;
+    box-shadow: 0 0 10px rgba(255, 138, 0, 0.6);
+}
+
+
+.h3:hover {
+    background-color: #FF8A00;
+    color: white;
+    border-color: #FF8A00;
+}
+
+
+.h3:focus {
+    outline: none;
+    border-color: #FF8A00;
+    box-shadow: 0 0 5px rgba(255, 138, 0, 0.5);
+}
+
+.Rec, .Rec2, .Rec3 {
+    transition: transform 0.3s ease;
+}
+
+
+.slide-in {
+    animation: slideIn 0.5s ease-out forwards;
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.datepicker, .timepicker, .partySizePicker {
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid #ddd;
+    margin-top: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.react-datepicker__input-container input {
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.react-datepicker__input-container input:focus {
+    border-color: #FF8A00;
+    box-shadow: 0 0 5px rgba(255, 138, 0, 0.5);
+}
+
+.Select__control {
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    transition: border-color 0.3s ease;
+}

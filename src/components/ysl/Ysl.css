@@ -1,0 +1,208 @@
+
+
+body {
+    margin: 0;
+    justify-content: center;
+}
+
+.container {
+    background-color: #fff;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo3{
+    width: 654px;
+    height: 58px;
+    top: 3363px;
+    left: 100px;
+    gap: 0px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: left;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: bold;
+    margin-top: 70px;
+
+    margin-left: 130px;
+
+}
+
+
+
+
+
+.left1, .left2 {
+    cursor: pointer;
+}
+
+.left1:hover, .left2:hover {
+    opacity: 0.8; /* Пример эффекта при наведении */
+}
+
+
+
+
+
+
+
+
+.left{
+    display: flex;
+    position: relative;
+    gap: 20px;
+
+}
+
+
+.left1{
+    position: relative;
+ top: 20px;
+    margin-left:20px;
+
+}
+
+
+.left2{
+    position: relative;
+    top: 20px;
+    margin-left:490px;
+
+}
+
+
+
+
+
+
+.givanchi{
+    display: flex;
+    gap: 15px;
+    margin-left: 180px;
+}
+
+.mystar{
+    margin-bottom: -10px;
+}
+
+
+.Sarah{
+    padding: 28px 32px 0px 32px;
+    gap: 342px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid  gray;
+}
+
+.pppp{
+
+    position: relative;
+    top: -30px;
+}
+
+
+
+
+.pppp2{
+    position: relative;
+    top: -30px;
+    right: 0px;
+}
+
+
+
+
+.pppp3{
+    position: relative;
+    top: -30px;
+    right: 0px;
+}
+
+
+.pppp4{
+    position: relative;
+    top: -30px;
+    right: 0px;
+}
+
+
+.pppp5{
+    position: relative;
+    top: -30px;
+    right: 0px;
+}
+
+
+
+
+
+.Alex{
+    padding: 28px 32px 0px 32px;
+    gap: 342px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid  gray;
+}
+
+
+.moenn{
+    padding: 28px 32px 0px 32px;
+    gap: 342px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid  gray;
+}
+
+
+.moenn2{
+    padding: 28px 32px 0px 32px;
+    gap: 342px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid  gray;
+}
+
+
+.James{
+
+    top: 3461px;
+    left: 940px;
+    padding: 28px 32px 0px 32px;
+    gap: 342px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid  gray;
+}
+
+
+
+
+.review-header {
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;  /* Это распределит элементы по горизонтали */
+
+}
+
+.check-icon {
+
+}
+
+p {
+
+    font-size: 14px; /* Регулируйте размер текста по необходимости */
+}

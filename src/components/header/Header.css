@@ -1,0 +1,102 @@
+
+.brend{
+    margin-left: 50px;
+}
+
+
+.header-cont{
+    display: flex;
+}
+
+
+.h55{
+    font-family: Integral CF;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.4px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 650px;
+    margin-left: 70px;
+}
+
+
+.pp{
+    font-family: Satoshi;
+    font-size: 16px;
+
+    margin-top: 60px;
+
+    margin-left: 100px;
+    /*font-weight: 400;*/
+    /*line-height: 21.6px;*/
+    /*text-align: left;*/
+    /*text-underline-position: from-font;*/
+    /*text-decoration-skip-ink: none;*/
+
+}
+.ppp{
+    font-family: Satoshi;
+    font-size: 16px;
+    /*font-weight : 400;*/
+    /*line-height: 21.6px;*/
+    /*text-align: left;*/
+    /*text-underline-position: from-font;*/
+    /*text-decoration-skip-ink: none;*/
+    margin-top: 60px;
+
+    margin-left: 30px;
+
+}
+
+
+
+
+
+.search-container {
+    margin-top: 45px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 691px;
+    height: 48px;
+    padding: 1px 16px;
+    gap: 12px;
+    border-radius: 62px 62px 62px 62px;
+    background-color: rgba(240, 240, 240, 1);
+    opacity: 1;  /* Изменил opacity на 1, чтобы элемент был видим */
+}
+
+.search-input {
+    border: none;
+    outline: none;
+    flex-grow: 1;
+    background: transparent;
+    font-size: 16px;
+    color: gray;
+    margin-left: 30px;
+
+}
+
+.search-icon {
+    position: absolute;
+    left: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.shopi{
+    display: flex;
+
+
+    img{
+        width: 24px;
+        margin-bottom: 600px;
+        margin-left: 20px;
+    }
+}
+
+

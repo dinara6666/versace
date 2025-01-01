@@ -1,0 +1,78 @@
+.formall{
+    background-color: rgba(240, 240, 240, 1);
+    width: 1239px;
+    height: 866px;
+    top: 2417px;
+    margin-left: 130px;
+    gap: 0px;
+    border-radius: 40px 40px 40px 40px;
+    opacity: 0px;
+    /*position: relative;*/
+
+    /*overflow: hidden;*/
+
+}
+
+.boddy{
+    margin-left: 67px;
+
+    margin-top: 175px;
+}
+
+
+.style5{
+    position: relative;
+    bottom: -100px;
+    margin-left: 275px;
+}
+
+
+
+.style1{
+    width: 407px;
+    height: 289px;
+    top: 192px;
+    left: 64px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    margin-right: 17px;
+}
+
+.style2{
+    width: 684px;
+    height: 289px;
+    top: 192px;
+    left: 491px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+
+.style3{
+    margin-right: 17px;
+    margin-top: 7px;
+    width: 684px;
+    height: 289px;
+    top: 501px;
+    left: 64px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+
+.style4{
+    width: 407px;
+    height: 289px;
+    top: 501px;
+    left: 768px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+}
+

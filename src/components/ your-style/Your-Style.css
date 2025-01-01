@@ -1,0 +1,190 @@
+.img1{
+
+
+
+    img{
+        position: relative;
+        bottom: 500px;
+    }
+
+}
+
+.text1{
+
+
+}
+
+
+.stars{
+    position: relative;
+    bottom: 700px;
+
+}
+
+
+.fon {
+    position: relative;
+    transform: translateY(-630px);
+    padding: 20px;
+
+}
+
+.img11 {
+    position: absolute;
+    margin-left: 750px;
+}
+
+
+.img1 {
+    position: absolute;
+    left:100px;
+    margin-left: 1200px;
+    margin-top: 20px;
+}
+
+
+.img2, .img3 {
+    width: 100px;
+    height: auto;
+}
+
+.button1 {
+    padding: 16px 54px 16px 54px;
+    border-radius: 40px 40px 40px 40px ;
+    background-color: #1a1a1a;
+    margin-left: 100px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 100px;
+    position: relative;
+    /* right: 940px;*/
+    /*top: 200px;*/
+
+}
+
+.fon {
+    height:640px;
+    width: 100%;
+    background-image: url("../../assets/Beiwe.png");
+    background-size: cover;
+    padding: 20px;
+    margin-top: 15px;
+    p{
+        /*text-align: left;*/
+
+        margin-right: 800px;
+        margin-left: 105px;
+
+    }
+}
+
+
+
+
+.text{
+    width: 600px;
+    margin-right: 250px;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+
+.img1, .img2, .img3 {
+
+    width: 100px;
+    height: auto;
+}
+
+.img1 {
+    top: 10%;
+    left: 10%;
+}
+
+.img2 {
+    margin-top: 500px;
+}
+
+.spans{
+    display:flex ;
+    position: relative;
+    left: 35px;
+    margin-left: 100px;
+
+}
+
+.spans h3 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0;
+}
+
+.spans1, .spans2, .spans3 {
+    margin: 0;
+}
+
+.spans11, .spans22, .spans33 {
+    margin-top: 0;
+}
+
+
+.spans{
+    gap: 25px;
+    margin-left: 70px;
+    margin-top: 50px;
+
+}
+.spans1{
+    font-size: 50px;
+
+}
+.spans2{
+    font-size: 50px;
+
+}
+.spans3{
+    font-size: 50px;
+
+}
+
+.spans11{
+    color: gray;
+    font-size: 20px;
+}
+.spans22{
+    color: gray;
+    font-size: 20px;
+}
+.spans33{
+    color: gray;
+    font-size: 20px;
+}
+
+
+.coo{
+
+    margin-top: 100px;
+    background-color: #1a1a1a;
+    width: 1440px;
+    height: 122px;
+    position: relative;
+    /*margin-left: 30px;*/
+    position: relative;
+    right: 20px;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    bottom: 730px;
+    left: 10px;
+    img{
+
+        position: relative;
+        left: 60px;
+        margin-left: 50px;
+        margin-top: 45px;
+        margin-right: 50px;
+    }
+}

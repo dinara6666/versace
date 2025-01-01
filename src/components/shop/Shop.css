@@ -1,0 +1,133 @@
+.shopp {
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: -420px;
+    margin-left: 130px;
+}
+
+.logo{
+    position: relative;
+    font-size: 50px;
+    width: 403px;
+    height: 58px;
+     bottom: 465px;
+    left: 570px;
+    gap: 0px;
+    position: relative;
+
+}
+
+.shop1, .shop2, .shop3, .shop4 {
+    width: 295px;
+    height: 298px;
+    object-fit: cover;
+    border-radius: 20px 20px 20px 20px;
+    position: relative;
+
+}
+
+.spann{
+    color: gray;
+}
+
+.spannn{
+    color: gray;
+}
+
+.hrr {
+    position: relative;
+    top: -300px;
+    color: gray;
+
+}
+
+.text4{
+    position: relative;
+    top: -260px;
+    margin-left: 600px;
+    font-size: 50px;
+
+}
+
+.newshop{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: -230px;
+    margin-left: 130px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.product1, .product2,  product3, .product4  {
+    transition: opacity 0.3s ease;
+    transition: transform 0.3s ease;
+
+}
+
+.product1:hover,  .product2:hover, .product3:hover, .product4:hover {
+    transform: translateY(-10px);
+}
+
+
+
+
+
+.new1, .new2, .new3, .new4{
+    width: 295px;
+    height: 298px;
+    object-fit: cover;
+    border-radius: 20px 20px 20px 20px;
+    position: relative;
+}
+
+
+
+.button22{
+    position: relative;
+    bottom: 400px;
+    left: 660px;
+
+    button{
+        background-color: white;
+        top: 2285px;
+        left: 611px;
+        padding: 16px 64px 16px 64px;
+        gap: 12px;
+        border-radius: 62px 60px 60px 60px;
+
+        border:  solid gray 1px ;
+
+    }
+}
+
+
+
+
+.button33{
+    position: relative;
+    top: 400px;
+    right: 730px;
+
+    button{
+        background-color: white;
+        top: 2285px;
+        left: 611px;
+        padding: 16px 64px 16px 64px;
+        gap: 12px;
+        border-radius: 62px 60px 60px 60px;
+
+        border:  solid gray 1px ;
+
+    }
+}

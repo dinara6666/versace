@@ -1,0 +1,115 @@
+/* Контейнер для Gradient T-shirt */
+.aaa {
+    display: flex;
+
+    position: absolute;
+ /* Элементы будут располагаться вертикально */
+
+}
+
+/* Контейнер для Checkered Shirt */
+.bbb {
+    display: flex;
+    /* Элементы будут располагаться вертикально */
+    position: relative;
+    top: 180px;
+}
+
+/* Контейнер для Skinny Fit Jeans */
+.ccc {
+    display: flex;
+ /* Элементы будут располагаться вертикально */
+    position: relative;
+    top: 235px;
+}
+
+/* Ширина изображения для Checkered Shirt */
+.stran22 {
+    width: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* src/App.css */
+.counter-container {
+    display: flex;
+    align-items: center;
+    /*gap: 10px;*/
+    position: absolute;
+    background-color:rgba(240, 240, 240, 1) ;
+    padding: 10px 15px 10px 22px;
+    gap: 10px;
+    border-radius: 62px 60px 60px 60px;
+
+    margin-left: 700px;
+
+
+}
+
+.counter-button {
+
+    padding: 0px;
+    background-color:rgba(240, 240, 240, 1) ;
+    color: black;
+    border: none;
+
+    cursor: pointer;
+}
+
+.counter-button:disabled {
+    background-color: #ccc;
+
+}
+
+.counter-display {
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    background-color:rgba(240, 240, 240, 1) ;
+}
+
+
+
+
+
+
+
+.meloch1{
+    background-color:rgba(240, 240, 240, 1);
+    position: absolute;
+}
+
+
+
+.button100{}
+
+
+
+.butt102{
+    background-color: #1a1a1a;
+    position: absolute;
+    border-radius: 62px 60px 60px 60px;
+
+    padding: 6px 104px 6px 104px;
+}
+.button102{
+    background-color: #1a1a1a;
+    color: white;
+
+
+
+    /*padding: 16px 124px 16px 124px;*/
+    gap: 12px;
+
+
+}
