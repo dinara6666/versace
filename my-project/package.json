@@ -1,13 +1,9 @@
 {
-  "homepage": "https://dinara6666.github.io/versace",
-
-  "name": "versace",
+  "name": "my-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "pnpm run build && gh-pages -d dist",
-
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
