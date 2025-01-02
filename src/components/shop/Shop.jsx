@@ -8,25 +8,25 @@ const Shop = () => {
             <h2 className={"logo"}>NEW ARRIVALS</h2>
 
             <div className={"shopp"}>
-                <div className={"product"}>
+                <div className={"product1"}>
                     <img className={"shop1"} src={Jack1} alt="T-shirt"/>
                     <p>T-SHIRT WITH TAPE DETAILS</p>
                     <h4>$120</h4>
                 </div>
 
-                <div className={"product"}>
+                <div className={"product2"}>
                     <img className={"shop2"} src={Jack2} alt="Skinny Fit Jeans"/>
                     <p>SKINNY FIT JEANS</p>
                     <h4>$240 <span className={"spann"}>$260</span></h4>
                 </div>
 
-                <div className={"product"}>
+                <div className={"product3"}>
                     <img className={"shop3"} src={Jack3} alt="Checkered Shirt"/>
                     <p>CHECKERED SHIRT</p>
                     <h4>$180</h4>
                 </div>
 
-                <div className={"product"}>
+                <div className={"product4"}>
                     <img className={"shop4"} src={Jack4} alt="Striped T-shirt"/>
                     <p>SLEEVE STRIPED T-SHIRT</p>
                     <h4>$130 <span className={"spannn"}>$160</span></h4>
@@ -39,8 +39,6 @@ const Shop = () => {
             <hr className={"hrr"}/>
 
             <div className={"rrrr"}>
-
-                {/*<img className={"text4"} src={Text2}/>*/}
                 <h2 className={"text4"}>TOP SELLING</h2>
 
             </div>

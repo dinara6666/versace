@@ -7,7 +7,7 @@ import Ysl from "./components/ysl/Ysl.jsx";
 import Footer from "./components/footer/Footer.jsx";
 import YourStyle from "./components/ your-style/Your-Style.jsx";
 
-// import Chanel from "./pages/chanel/Chanel.jsx";
+import Chanel from "./pages/chanel/Chanel.jsx";
 
 
 class App extends Component {
@@ -21,7 +21,7 @@ class App extends Component {
                 <Ysl/>
                 <Footer/>
 
-                {/*<Chanel/>*/}
+                <Chanel/>
             </div>
         );
     }

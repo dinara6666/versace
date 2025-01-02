@@ -2,7 +2,7 @@
     display: flex;
     gap: 20px;
     position: relative;
-    top: -420px;
+    top: -620px;
     margin-left: 130px;
 }
 
@@ -11,7 +11,7 @@
     font-size: 50px;
     width: 403px;
     height: 58px;
-     bottom: 465px;
+     bottom: 665px;
     left: 570px;
     gap: 0px;
     position: relative;
@@ -37,14 +37,14 @@
 
 .hrr {
     position: relative;
-    top: -300px;
+    top: -500px;
     color: gray;
 
 }
 
 .text4{
     position: relative;
-    top: -260px;
+    top: -460px;
     margin-left: 600px;
     font-size: 50px;
 
@@ -54,7 +54,7 @@
     display: flex;
     gap: 20px;
     position: relative;
-    top: -230px;
+    top: -430px;
     margin-left: 130px;
 
 }
@@ -68,16 +68,6 @@
 
 
 
-
-.product1, .product2,  product3, .product4  {
-    transition: opacity 0.3s ease;
-    transition: transform 0.3s ease;
-
-}
-
-.product1:hover,  .product2:hover, .product3:hover, .product4:hover {
-    transform: translateY(-10px);
-}
 
 
 
@@ -93,9 +83,69 @@
 
 
 
+
+
+.product1{
+
+    transition: transform 0.4s ease;
+}
+
+
+.product1:hover{
+    transform: translateY(-15px);
+}
+
+
+
+.product2{
+
+    transition: transform 0.4s ease;
+}
+
+
+.product2:hover{
+    transform: translateY(-15px);
+}
+
+
+
+.product3{
+
+    transition: transform 0.4s ease;
+}
+
+
+.product3:hover{
+    transform: translateY(-15px);
+}
+
+
+
+.product4{
+
+    transition: transform 0.4s ease;
+}
+
+
+.product4:hover{
+    transform: translateY(-15px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .button22{
     position: relative;
-    bottom: 400px;
+    bottom: 600px;
     left: 660px;
 
     button{

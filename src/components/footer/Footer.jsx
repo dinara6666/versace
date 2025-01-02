@@ -1,7 +1,7 @@
 import React from 'react';
 
 import "./Footer.css"
-import {Inst, Inst2, Inst3, Logoshop} from "../../assets/index.js";
+import {Delete2, Inst, Inst2, Inst3, Logoshop, Pochta} from "../../assets/index.js";
 
 const Footer = () => {
     return (
@@ -14,9 +14,11 @@ const Footer = () => {
                         <svg className="email-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
                              height="24">
 
-                            <path d="M12 13l-8 5V6l8 5 8-5v12l-8-5z"/>
                         </svg>
+                        <img className={"pochta"} src={Pochta}/>
                         <input className="email-input" type="email" placeholder="Enter your email address"/>
+
+
                     </div>
                     <div className={"button111"}>
                     <button className="fbutton">Subscribe to Newsletter </button>

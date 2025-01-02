@@ -14,8 +14,8 @@ const YourStyle = () => {
                 <img className={"text"} src={Text}/>
 
 
-                <img className={"img1"} src={Star2}/>
-                <img className={"img3"}  src={Star}/>
+                <img className={"img1"} src={Star}/>
+                <img className={"img3"}  src={Star2}/>
 
                 <p>Browse through our diverse range of meticulously crafted garments, designed <br/> to bring out your
                     individuality and cater to your sense of style.</p>

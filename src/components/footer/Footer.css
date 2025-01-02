@@ -22,6 +22,21 @@
     position: relative;
 }
 
+
+
+
+
+.pochta{
+    position: relative;
+    right: 20px;
+}
+
+
+
+
+
+
+
 .email-container {
     bottom: 130px;
     margin-left: 850px; /* Отступ слева */
@@ -51,7 +66,8 @@
     border: none;
     outline: none;
     font-size: 16px;
-
+     position: relative;
+    right: 20px;
     height: 100%;
     border-radius: 62px;
     background-color: transparent;
@@ -60,9 +76,8 @@
 
 .fbutton {
     bottom: 140px;
-    margin-left: 850px; /* Отступ слева */
+    margin-left: 850px;
     position: relative;
-
     display: flex;
     align-items: center;
     background: rgba(255, 255, 255, 1);

@@ -6,11 +6,8 @@
     margin-left: 130px;
     gap: 0px;
     border-radius: 40px 40px 40px 40px;
-    opacity: 0px;
-    /*position: relative;*/
 
-    /*overflow: hidden;*/
-
+    margin-top: -290px;
 }
 
 .boddy{
@@ -37,6 +34,10 @@
     border-radius: 20px 20px 20px 20px;
     opacity: 0px;
     margin-right: 17px;
+
+
+    transition: transform 0.3s ease;
+
 }
 
 .style2{
@@ -47,6 +48,10 @@
     gap: 0px;
     border-radius: 20px 0px 0px 0px;
     opacity: 0px;
+
+
+    transition: transform 0.3s ease;
+
 
 }
 
@@ -62,6 +67,29 @@
     border-radius: 20px 0px 0px 0px;
     opacity: 0px;
 
+    transition: transform 0.3s ease;
+
+}
+
+
+.style3:hover{
+    transform: translateY(-10px);
+}
+
+
+
+.style1:hover{
+    transform: translateY(-10px);
+}
+
+
+.style2:hover{
+    transform: translateY(-10px);
+}
+
+
+.style4:hover{
+    transform: translateY(-10px);
 }
 
 
@@ -73,6 +101,9 @@
     gap: 0px;
     border-radius: 20px 0px 0px 0px;
     opacity: 0px;
+
+
+    transition: transform 0.3s ease;
 
 }
 

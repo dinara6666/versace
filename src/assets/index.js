@@ -45,6 +45,8 @@ import Inst from './Inst.svg'
 import Inst2 from './Inst2.svg'
 import Inst3 from './Inst3.svg'
 
+import Pochta from './Pochta.svg'
+
 
 //
 import Stran1 from './Stran1.png'
@@ -101,7 +103,7 @@ export {
     Inst,
     Inst2,
     Inst3,
-
+    Pochta,
 
 
     //
